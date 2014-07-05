@@ -9,5 +9,5 @@ excerpt_link: Read More
 fancybox: true
 
 # Miscellaneous
-google_analytics:
+google_analytics: false
 favicon: /favicon.png

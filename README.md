@@ -12,7 +12,7 @@ Hexo theme: Apollo
 ###Install
 
 ``` bash
-$ git clone git@github.com:joyceim/hexo-theme-apollo.git themes/apollo
+$ git clone git@github.com:maurayonori/hexo-theme-apollo.git themes/apollo
 ```
 
 **Apollo requires Hexo 2.4 and above.**
